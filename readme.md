@@ -1,4 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6wjo_EEX)
+
+[![Link Preview](https://github.com/andrirabians-lgtm/To-Do-List.git)]
 # Challenge 4 - The Interactive To-Do List
 
 # Description
